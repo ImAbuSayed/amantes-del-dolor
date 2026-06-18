@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-del-dolor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Amantes del dolor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-del-dolor/) |
+| **Get License** | [Get License For Amantes del dolor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-del-dolor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche entera nos llama en la oscuridad
+> Tus ojos me dicen cosas que no puedes ocultar
+> Un juego de fuego y hielo, no quiero la realidad
+> Me tienes aquí atrapado, bailando en tu gravedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
