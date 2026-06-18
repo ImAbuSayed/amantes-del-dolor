@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amantes del dolor
+
+This log tracks the cryptographic history and versioning for the song **Amantes del dolor** (amantes-del-dolor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T22:01:57.748071 | `v1` | `5ee091fe3aa35e4b8abf579b7e8e5a4701294da5a64724e9eedea065bea20128` | `c9716cb2b6b5acfe0fe231332178ac253316c92e5c478900b0bdafb2b5c862be` | `2026-06-18_amantes-del-dolor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
